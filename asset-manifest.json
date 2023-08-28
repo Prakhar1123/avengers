@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/avengers/static/css/main.2fd233a9.css",
+    "main.js": "/avengers/static/js/main.b8e9b9b0.js",
+    "static/js/787.14d66ee3.chunk.js": "/avengers/static/js/787.14d66ee3.chunk.js",
+    "index.html": "/avengers/index.html",
+    "main.2fd233a9.css.map": "/avengers/static/css/main.2fd233a9.css.map",
+    "main.b8e9b9b0.js.map": "/avengers/static/js/main.b8e9b9b0.js.map",
+    "787.14d66ee3.chunk.js.map": "/avengers/static/js/787.14d66ee3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fd233a9.css",
+    "static/js/main.b8e9b9b0.js"
+  ]
+}
