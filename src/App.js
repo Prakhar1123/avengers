@@ -3,7 +3,7 @@ import './App.css';
 
 const questions = [
   {
-    question: "Who is the billionaire genius avengers?",
+    question: "Who is the billionaire genius avenger?",
     options: ["Thor", "Black Widow", "Iron Man", "Captain America"],
     answer: "Iron Man",
   },
